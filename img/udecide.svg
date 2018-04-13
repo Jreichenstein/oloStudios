@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>iTunesArtwork@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="132" y="132" width="632.910472" height="632.910472" rx="12.5"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="632.910472" height="632.910472" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="App-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iTunesArtwork@2x">
+            <g id="Logo" transform="translate(64.000000, 64.000000)">
+                <use id="Rectangle-213" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="35" transform="translate(448.455236, 448.455236) rotate(-315.000000) translate(-448.455236, -448.455236) " xlink:href="#path-1"></use>
+                <polygon id="Path-323" fill="#FFFFFF" points="260.504506 251 404.7508 251 404.7508 318.903441 374.688698 318.903441 374.688698 597.35626 408.699012 631.366574 492.264882 631.366574 523.737527 599.893929 523.737527 319.276839 498.431714 319.276839 498.431714 252.036868 637.790117 252.036868 637.790117 318.049293 608.993335 318.049293 608.993335 622.289014 517.87116 713.411189 386.350385 713.411189 289.75538 616.816185 289.75538 319.055058 260 319.055058"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

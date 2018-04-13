@@ -1,0 +1,12 @@
+{
+  "name": "OLO Studios",
+  "version": "1.0.0",
+  "description": "A full service agency dedicated to working with creatives, non-profits, and start-ups passionate about what they do",
+  "author": "OLO Studios",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
